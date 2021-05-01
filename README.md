@@ -13,7 +13,7 @@
 </div>
 
 ```c
-def main(){
+def main(void){
  👨‍💻Gmail: "contatoyuritamayose@gmail.com",
 }
 ```

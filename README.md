@@ -24,8 +24,9 @@ const Contacts = {
 </p>
 
 ### ☕ Get In Touch
-[![Gmail Badge](https://img.shields.io/badge/-jobuzetiuol123@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com)
-[![TryHackMe Badge](https://img.shields.io/badge/-R3tr074-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
+[![Gmail Badge](https://img.shields.io/badge/-contatoyuritamayose@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com)
+[![TryHackMe Badge](https://img.shields.io/badge/-gOld-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
 
 
 💫 From [gOld (Yuri Tamayose)](https://github.com/gOldiz)
+👾 Inspired on [R3tr074 (Jorge Buzeti)] (https://github.com/R3tr074)

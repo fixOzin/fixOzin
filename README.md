@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Yuri Tamayose :computer:
  ------------
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://pa1.narvii.com/6552/930b23df8b9e4a1228550eb3cdfcc8f4b22ef41e_hq.gif' width='200"'>
 
 #### I am intermediate python student, learning webhacking and C-lang too.
 
@@ -14,7 +14,7 @@
 
 ```c
 def main(void){
- 👨‍💻Gmail: "contatoyuritamayose@gmail.com",
+ 👨‍💻Gmail: "contatoyuritamayose@gmail.com";
 }
 ```
 

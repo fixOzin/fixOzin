@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Yuri Tamayose :computer:
  ------------
-<img align='right' src='https://pa1.narvii.com/6552/930b23df8b9e4a1228550eb3cdfcc8f4b22ef41e_hq.gif' width='200"'>
+<img align='right' src='https://pa1.narvii.com/7141/1253ee476978b78989c058384812a612a995ccf4r1-360-360_hq.gif' width='200"'>
 
 #### I am intermediate python student, learning webhacking and C-lang too.
 

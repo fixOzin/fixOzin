@@ -12,9 +12,9 @@
 
 </div>
 
-```js
-const Contacts = { 
- 👨‍💻Linkedin: "contatoyuritamayose@gmail.com",
+```c
+def main(){
+ 👨‍💻Gmail: "contatoyuritamayose@gmail.com",
 }
 ```
 

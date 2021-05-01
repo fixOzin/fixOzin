@@ -25,7 +25,7 @@ def main(void){
 
 ### ☕ Get In Touch
 [![Gmail Badge](https://img.shields.io/badge/-contatoyuritamayose@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com)
-[![TryHackMe Badge](https://img.shields.io/badge/-gOld-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
+[![TryHackMe Badge](https://img.shields.io/badge/-gOld-9fef00?style=flat-square&logo=Try-Hack-Me&logoColor=white&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
 
 
 💫 From [gOld (Yuri Tamayose)](https://github.com/gOldiz)

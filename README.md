@@ -2,21 +2,27 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-## 👋 Hi, I'm Yuri Tamayose :computer:
- ------------
-<img align='right' src='https://pa1.narvii.com/7141/1253ee476978b78989c058384812a612a995ccf4r1-360-360_hq.gif' width='200"'>
+## 👋 Hi, i'm Yuri Tamayose, best known in the community as fixO :computer:
+<img align='right' src='https://cdn.discordapp.com/attachments/839173370783596615/876670142052991006/dc6u7t8-9d967db3-e510-4daa-a9a5-3d4962b2ef0d.gif' width='200"'>
 
-#### I am intermediate python student, learning webhacking and C-lang too.
+#### I had studying Python, Node.js, C-lang and Web Hacking!.
 
  # 👨‍💻 Languages and Tools: <div align="center"> 
-<hr></hr>[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C-Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=-linux)](https://www.kernel.org/doc/html/latest/) 
-
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![C-Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 </div>
 
-```c
-int main(void){
- 👨‍💻char Gmail: "contatoyuritamayose@gmail.com";
-}
+```node.js
+const express = require('express');
+const app = express();
+
+const discordUser = 's4tiva#1337'
+
+app.get('/', (req,res) => {
+    
+    res.send('[💻] Gmail: contatoyuritamayose@gmail.com', + discordUser),
+
+});
+
 ```
 
 <p align="center">
@@ -24,11 +30,12 @@ int main(void){
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gOldiz&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
-### ☕ Get In Touch
-[![Gmail Badge](https://img.shields.io/badge/-contatoyuritamayose@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com)
-[![TryHackMe Badge](https://img.shields.io/badge/-gOld-9fef00?style=flat-square&logo=Try-Hack-Me&logoColor=white&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
+### ☕ Get In Touch: 
+[![Gmail Badge]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com) [![WhatsApp]( 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511997147338&text=Ol%C3%A1%20Yuri%2C%20vi%20seu%20perfil%20no%20Github!!!.) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X6eDASgFtw)
+### 🐱‍💻 TryHackMe:
+[![TryHackMe Badge](https://img.shields.io/badge/-s4tiva-9fef00?style=flat-square&logo=Try-Hack-Me&logoColor=red&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
 
 
-💫 From [gOld (Yuri Tamayose)](https://github.com/gOldiz)
+💫 From [fixO (Yuri Tamayose)](https://github.com/gOldiz)
 
 👾 Inspired on [R3tr074 (Jorge Buzeti)](https://github.com/R3tr074)

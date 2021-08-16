@@ -30,11 +30,14 @@ app.get('/', (req,res) => {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gOldiz&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
-### ☕ Get In Touch: 
+### ☕ Click on for contact: 
 [![Gmail Badge]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoyuritamayose@gmail.com) [![WhatsApp]( 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511997147338&text=Ol%C3%A1%20Yuri%2C%20vi%20seu%20perfil%20no%20Github!!!.) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X6eDASgFtw)
+
+### 👻 Moderator of HardDisk:
+[![HardDisk Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://harddisk.com.br/) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f6aUQvEfeM)
+
 ### 🐱‍💻 TryHackMe:
 [![TryHackMe Badge](https://img.shields.io/badge/-s4tiva-9fef00?style=flat-square&logo=Try-Hack-Me&logoColor=red&link=https://tryhackme.com/p/s1rpent)](https://tryhackme.com/p/s1rpent)
-
 
 💫 From [fixO (Yuri Tamayose)](https://github.com/gOldiz)
 

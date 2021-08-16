@@ -2,15 +2,19 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-## 👋 Hi, i'm Yuri Tamayose, best known in the community as fixO or s4tiva :computer:
+## 👋 Hi, i'm Yuri Tamayose, best known in the community as fixO or s4tiva! :computer:
 <img align='right' src='https://cdn.discordapp.com/attachments/839173370783596615/876670142052991006/dc6u7t8-9d967db3-e510-4daa-a9a5-3d4962b2ef0d.gif' width='200"'>
 
 #### I had studying Python, Node.js, C-lang and Web Hacking!.
 
- # 👨‍💻 Languages and Tools: <div align="center"> 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![C-Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+ ### 👨‍💻 Languages and Tools: <br></br> <div align="center"> [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 </div>
 
+# <div align="center"> [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C-Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)    
+  
+</div>
+
+            
 ```node.js
 const express = require('express');
 const app = express();

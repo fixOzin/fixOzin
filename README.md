@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hi, i'm Yuri Tamayose, best known in the community as fixO or s4tiva! :computer:
-<img align='right' src='https://cdn.discordapp.com/attachments/866807011874045983/878015140728012841/sukuna-unscreen.gif' width='200"'>
+<img align='right' src='https://cdn.discordapp.com/attachments/839173370783596615/876670142052991006/dc6u7t8-9d967db3-e510-4daa-a9a5-3d4962b2ef0d.gif' width='200"'>
 
 #### I had studying Python, Node.js, C-lang and Web Hacking!.
 

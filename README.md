@@ -31,7 +31,7 @@ app.get('/', (req,res) => {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tayOx&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="tayOx" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fixOzin&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayOx&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
 ### ☕ Click on for contact: 

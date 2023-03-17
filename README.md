@@ -6,6 +6,7 @@
 <img align='right' src='https://cdn.discordapp.com/attachments/839173370783596615/876670142052991006/dc6u7t8-9d967db3-e510-4daa-a9a5-3d4962b2ef0d.gif' width='200"'>
 
 #### I had studying Python, Node.js, C-lang and Web Hacking!.
+#### Computer enginner student.
 
  ### 👨‍💻 Languages and Tools: <br></br> <div align="center"> [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 </div>
